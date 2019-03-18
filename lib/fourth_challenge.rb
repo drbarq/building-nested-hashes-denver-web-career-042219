@@ -7,7 +7,7 @@ def fourth_challenge
       :hero_friends => [
         {:name => "Benvolio",
           :age => "17",
-          :attitude => "worried"}
+          :attitude => "worried"},
         {:name => "Mercutio",
           :age => "18",
           :attitude => "hot-headed"}
@@ -21,7 +21,7 @@ def fourth_challenge
       :heroine_friends => [
         {:name => "Steven",
           :age => "30",
-          :attitude => "confused"}
+          :attitude => "confused"},
         {:name => "Nurse",
           :age => "41",
           :attitude => "worried"}
